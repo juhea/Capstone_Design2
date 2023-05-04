@@ -53,3 +53,18 @@ helmet : Serial Moniter = 49
 
 
 ***
+
+
+>_4월 / ?_
+</br>
+
+Zoom in/out of the Webcam 
+
+
+***reference link***
+
+[v4l2-ctl setting] ( https://m.blog.naver.com/chandong83/221262714615 )
+
+==> Failed to zoom out webcam showing zoomed in
+
+====> non-shrinkable device
