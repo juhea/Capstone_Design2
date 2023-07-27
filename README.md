@@ -1,4 +1,4 @@
-# Capstone design 1
+# Capstone design 2
 </br>
 </br>
 
