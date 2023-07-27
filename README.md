@@ -14,7 +14,7 @@ Find Dataset - roboflow('helmet', 'head', 'person')
 
 >_3월 / ?_
 </br>
-Data Learning with Colab : Eboch 50 -> 100
+Data Learning with Colab : Epoch 50 -> 100
 
 best.pt -> raspberry pi (usb) : error pytorch
 
